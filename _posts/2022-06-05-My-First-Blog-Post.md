@@ -16,6 +16,8 @@ sticky_rank: 1
 
 > If you are visual person then I would suggest following the [short video](https://youtu.be/S1F7gy-UK7I) on my youtube channel giving an overview of the series:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1F7gy-UK7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"> </iframe>
+
 Hello World! I am Aditya Ramesh Ganti, a nerd-y (probably the word dosen't exist, but nevermind!) student pursuing my B.Tech degree in Smart Manufacturing at PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (wow, that's a mouthful!😅 You can call it [PDPM IIITDMJ](https://www.iiitdmj.ac.in/)). Jabalpur is a city in Madhya Pradesh, India.
 
 I am a Machine Learning and Robotics Entusiast aiming to be one of the best in the field. I love doing research irrespective of the subject and gain knowledge, whether I remember it or not is secondary, though 😅. I have been learning Machine Learning and a little bit of Robotics for the past year and a half. And I thought I'd share my learning through the series of videos that I will be uploading weekly every Sunday starting today on my [YouTube Channel](https://www.youtube.com/channel/UCXF74-jFED_EYHGuL5HxvGQ). The course provides explanation 
