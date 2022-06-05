@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title:How I learned Machine Learning as a B.Tech Student majoring in Smart Manufacturing 
+description: This is my first blog post on how I have learned Machine Learning for the past 1 and a half year.
 github_username: ARGF0RCE
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "how-i-started-ml"
@@ -39,8 +39,8 @@ baseurl: "/how-i-started-ml" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+#     twitter: fastdotai
+    github: ARGF0RCE
 
 # Set this to true to get LaTeX math equation support
 use_math: 
