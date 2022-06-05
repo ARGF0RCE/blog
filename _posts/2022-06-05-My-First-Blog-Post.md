@@ -3,7 +3,7 @@ toc: true
 layout: post
 image: images/ml_logo.png
 description: My First Blog Post on Machine Learning.
-categories: [markdown, fastpages, jupyter]
+categories: [markdown]
 title: Hands on ML Made Easy course on YouTube
 sticky_rank: 1
 ---
@@ -16,7 +16,7 @@ sticky_rank: 1
 
 > If you are visual person then I would suggest following the short video on my youtube channel giving an overview of the series:
 
-> youtube: https://youtu.be/S1F7gy-UK7I
+{% youtube: https://youtu.be/S1F7gy-UK7I}
 
 Hello World! I am Aditya Ramesh Ganti, a nerd-y (probably the word dosen't exist, but nevermind!) student pursuing my B.Tech degree in Smart Manufacturing at PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (wow, that's a mouthful!😅 You can call it [PDPM IIITDMJ](https://www.iiitdmj.ac.in/)). Jabalpur is a city in Madhya Pradesh, India.
 
