@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Aditya Ramesh Ganti, a Machine Learning Enthusiast 
-description: This is my first blog post on how I have learned Machine Learning for the past 1 and a half year.
+description: This is my website for all the blog posts.
 github_username: ARGF0RCE
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "how-i-started-ml"
