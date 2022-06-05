@@ -60,6 +60,8 @@ show_tags: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
 
+show_image: true
+
 exclude:
   - docker-compose.yml
   - action.yml
