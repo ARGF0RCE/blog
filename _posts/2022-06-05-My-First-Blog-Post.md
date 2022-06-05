@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
-categories: [fastpages, markdown]
-title: How I learned Machine Learning as a B.Tech Student majoring in Smart Manufacturing
+description: My First Blog Post on Machine Learning.
+categories: [markdown]
+title: Hands on ML Made Easy course on YouTube
 ---
 
 # Introduction
