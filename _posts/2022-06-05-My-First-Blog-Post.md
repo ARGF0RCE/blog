@@ -14,9 +14,7 @@ sticky_rank: 1
 
 > **Note:** This post is for beginners who want to learn Machine Learning through python coding and for those who want a structured video lectures of the book, **[Hands-On Machine Learning with Scikit-learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**. For advanced users, I would suggest going through the *[curriculum in Notion](https://rural-sapphire-cce.notion.site/O-Reilly-Hands-On-ML-Book-Curriculum-d6952ef1dd914ed19553a6235d0ee948)* for your own use case.
 
-> If you are visual person then I would suggest following the short video on my youtube channel giving an overview of the series:
-
-{% youtube https://youtu.be/S1F7gy-UK7I %}
+> If you are visual person then I would suggest following the [short video](https://youtu.be/S1F7gy-UK7I) on my youtube channel giving an overview of the series:
 
 Hello World! I am Aditya Ramesh Ganti, a nerd-y (probably the word dosen't exist, but nevermind!) student pursuing my B.Tech degree in Smart Manufacturing at PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (wow, that's a mouthful!😅 You can call it [PDPM IIITDMJ](https://www.iiitdmj.ac.in/)). Jabalpur is a city in Madhya Pradesh, India.
 
