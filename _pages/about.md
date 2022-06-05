@@ -6,7 +6,8 @@ permalink: /about/
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
-# About me
+## Introduction
+
 Hello World! I am Aditya Ramesh Ganti... So, you're here to say all about me, My interests, hobbies, what I like, what I dislike..and all that, let's begin then!
 
 I was born in Bombay, India. I live in Hyderabad India with my mom, dad, and little sister. My mom has a lot of knowledge in coding like `C` `C++` and other languages too, talk 'bout multi-lingual.😅 My dad works in Cognizant and is good at table tennis and other sports.. and my little sister is currently in school studying 8th grade. 
