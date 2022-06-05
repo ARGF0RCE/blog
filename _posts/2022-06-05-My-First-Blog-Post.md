@@ -3,7 +3,7 @@ toc: true
 layout: post
 image: images/ml_logo.png
 description: My First Blog Post on Machine Learning.
-categories: [markdown, fastpages, Machine Learning]
+categories: [markdown, fastpages]
 title: Hands on ML Made Easy course on YouTube
 ---
 
