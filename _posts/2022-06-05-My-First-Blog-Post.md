@@ -1,6 +1,7 @@
 ---
 toc: true
 layout: post
+image: images/ml_logo.png
 description: My First Blog Post on Machine Learning.
 categories: [markdown]
 title: Hands on ML Made Easy course on YouTube
