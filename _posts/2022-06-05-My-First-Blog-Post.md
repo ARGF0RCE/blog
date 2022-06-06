@@ -22,7 +22,7 @@ Hello World! I am Aditya Ramesh Ganti, a nerd-y (probably the word dosen't exist
 
 I am a Machine Learning and Robotics Entusiast aiming to be one of the best in the field. I love doing research irrespective of the subject and gain knowledge, whether I remember it or not is secondary, though 😅. I have been learning Machine Learning and a little bit of Robotics for the past year and a half. And I thought I'd share my learning through the series of videos that I will be uploading weekly every Sunday starting today on my [YouTube Channel](https://www.youtube.com/channel/UCXF74-jFED_EYHGuL5HxvGQ). The series provides explanation of the concepts and do hands-on code provided in the book through Jupyter Notebook. All the code will be available in my [github repo](https://github.com/ARGF0RCE/Hands-On-ML-Made-Easy) to get along with the videos. Though, the repo is still under development, all the code that were recorded will be provided before-hand.
 
-# Prequisites
+# Prerequisites
 
 A pinch of Python and a touch of some familiar Python's scientific libraries - [Numpy](https://numpy.org), [Pandas](https://pandas.pydata.org/), and [Matplotlib](https://matplotlib.org).
 
