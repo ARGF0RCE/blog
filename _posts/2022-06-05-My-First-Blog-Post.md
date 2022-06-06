@@ -43,3 +43,47 @@ And that's how it went. And I plan on following what he suggested. I am going to
 So this course is going to cover as much as it can but also give you extra-curriculum activities which you need to google. Of course, it is not compulsory but it is always beneficial to be out of the comfort zone and take the initiative. 😎
 
 Hence, this course is going to be beneficial in not only gaining knowledge of Machine Learning, but also the methods of self-learning.
+
+# O’Reilly Hands-On ML Book Curriculum
+
+# Status
+
+- Finished chapter 1 June 3, 2022
+- Starting Chapter 2 June 3, 2022 1:04 PM
+
+## Part 1:
+
+- [x]  The Machine-Learning Landscape
+- [x]  End-to-End Machine Learning Project
+- [ ]  Classification
+- [ ]  Training Models
+- [ ]  Support Vector Machines
+- [ ]  Decision Trees
+- [ ]  Ensemble Learning and Random Forests
+- [ ]  Dimensionality Reduction
+- [ ]  Unsupervised Learning Techniques
+
+## Part 2:
+
+- [ ]  Introduction to Artificial Neural Networks with Keras
+- [ ]  Training Deep Neural Networks
+- [ ]  Custom Models and Training with TensorFlow
+- [ ]  Loading and Pre-processing Data with TensorFlow
+- [ ]  Deep Computer Vision Using Convolutional Neural Networks
+- [ ]  Processing Sequences using RNNs and CNNs
+- [ ]  Natural Language Processing with RNNs and Attention
+- [ ]  Representation Learning and Generative Learning using Autoencoders and GANs
+- [ ]  Reinforcement Learning
+- [ ]  Training and Deploying TensorFlow Models at Scale
+
+## Part 3:
+
+- [ ]  Machine Learning Project Checklist
+- [ ]  SVM Dual Problem
+- [ ]  Autodiff
+- [ ]  Other Popular ANN Architectures
+- [ ]  Special Data Structures
+- [ ]  TensorFlow Graphs
+
+# KanBan Board
+
