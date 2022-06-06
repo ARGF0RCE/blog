@@ -44,7 +44,7 @@ So this course is going to cover as much as it can but also give you extra-curri
 
 Hence, this course is going to be beneficial in not only gaining knowledge of Machine Learning, but also the methods of self-learning.
 
-# O’Reilly Hands-On ML Book Curriculum that we'll be convering
+# O’Reilly Hands-On ML Book Curriculum that we'll be covering
 
 # Status
 
