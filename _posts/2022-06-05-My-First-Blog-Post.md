@@ -44,7 +44,7 @@ So this course is going to cover as much as it can but also give you extra-curri
 
 Hence, this course is going to be beneficial in not only gaining knowledge of Machine Learning, but also the methods of self-learning.
 
-# O’Reilly Hands-On ML Book Curriculum
+# O’Reilly Hands-On ML Book Curriculum that we'll be convering
 
 # Status
 
@@ -85,5 +85,77 @@ Hence, this course is going to be beneficial in not only gaining knowledge of Ma
 - [ ]  Special Data Structures
 - [ ]  TensorFlow Graphs
 
-# KanBan Board
+# The Machine Learning Landscape
 
+Assign: Aditya Ramesh Ganti
+Date: June 2, 2022 13:00-15:00
+Status: Completed - June 2022
+
+## 1. What is Machine Learning?
+
+- Machine Learning is the science and art of programming a computers so that they can *learn from data*.
+
+## 2. Why use Machine Learning?
+
+- It is difficult to write and maintain a traditional program for the problem of spam filter as the input varies every time.
+- Instead predicting through some given key words by a Machine Learning algorithm is much easier. Hence comes the use of machine learning.
+- Also, machine learning can help humans learn about the various possibilities that can occur in an event given the few dependent features.
+
+To summarize, Machine Learning is great for:
+
+- Problems for which existing solutions require a lot of fine-tuning or long lists of rules: one Machine Learning algorithm can often simplify code and perform better than the traditional approach.
+- Complex Problem for which using a traditional approach yields no good solution: the Best Machine Learning techniques can perform better than the traditional approach.
+- Fluctuating environments: a Machine Learning system can adapt to new data.
+- Getting insights about complex problems and large amounts of data.
+
+## 3. Examples of Applications
+
+1. **Analyzing images of products on a production line to automatically classify them**
+2. **Detecting tumors in brain scans**
+3. **Automatically classifying news articles**
+4. **Detecting credit card fraud**
+5. **Building an intelligent bot for a game**
+
+and much more…
+
+## 4. Types of Machine Learning Systems
+
+There are so many different types of Machine Learning Systems that it is useful to classify them in broad categories, based on the following criteria:
+
+- Whether or not they are trained with human supervision
+- Whether or not they can learn incrementally on the fly.
+- Whether they work simply by comparing new data points, or instead by detecting patterns in the training data and building a predictive model, much like scientists do.
+
+### 4.1 Supervised/Unsupervised Learning
+
+Machine Learning systems can be classified according to the amount and type of supervision they get during training. There are four major categories: supervised learning, unsupervised learning, semi-supervised learning, and Reinforcement learning.
+
+### 4.1.1 Supervised Learning
+
+In *supervised learning*, the training set you feed to the algorithm includes the desired solutions, called *labels*. 
+
+Here are some of the most important supervised learning algorithms:
+
+- k-Nearest Neighbors
+- Linear Regression
+- Logistic Regression
+- Support Vector Machines (SVMs)
+- Decision Trees and Random Forests
+- Neural Networks
+
+### 4.1.2 Unsupervised Learning
+
+In *unsupervised learning* as you might have guessed, the training data is unlabeled. In simple words… The system tries to learn without a teacher.
+
+Here are some of the most important unsupervised learning algorithms:
+
+- Clustering
+    - K-Means
+    - DBSCAN
+    - Hierarchical Cluster Analysis (HCA)
+- Anomaly detection and novelty detection
+    - One-class SVM
+    - Isolation Forest
+- Association rule learning
+	- Apriori
+	- Eclat
